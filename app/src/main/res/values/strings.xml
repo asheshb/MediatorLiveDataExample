@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediatorLiveData Example</string>
+    <string name="first_player_score">First Player Score</string>
+    <string name="two_player_game">Two Player Game</string>
+    <string name="submit">Submit</string>
+    <string name="second_player_score">Second Player Score</string>
+    <string name="previous_player_score">Previous Player Score: %1$.2f</string>
+    <string name="enter_score">Enter Score</string>
+
+</resources>
